@@ -26,8 +26,8 @@ const Benefits = () => {
     },
     {
       icon: Shield,
-      title: 'Compliance Total',
-      description: 'Garanta total conformidade fiscal e trabalhista',
+      title: 'Segurança e Conformidade',
+      description: 'Tenha certeza de que sua empresa está em conformidade com as normas fiscais',
       details: ['Atualização constante da legislação', 'Redução de riscos', 'Auditoria especializada']
     },
     {

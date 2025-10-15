@@ -15,12 +15,11 @@ const Hero = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
             <div className="space-y-4">
-              <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
+              <h1 className="text-5xl lg:text-3xl font-bold text-gray-900 leading-tight">
                 Soluções
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-green-600">
-                  {" "}Financeiras
+                  {" "}Financeiras{" "} 
                 </span>
-                <br />
                 para o Crescimento
               </h1>
               <p className="text-xl text-gray-600 max-w-lg">
