@@ -16,15 +16,17 @@ const Hero = () => {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-5xl lg:text-3xl font-bold text-gray-900 leading-tight">
-                Soluções
+                BPO
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-green-600">
-                  {" "}Financeiras{" "} 
+                  {" "}Financeiro{" "} 
                 </span>
-                para o Crescimento
+                e Fiscal de 
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-600 to-blue-600">
+                  {" "}Excelência
+                </span>
               </h1>
               <p className="text-xl text-gray-600 max-w-lg">
-                BPO Financeiro e Fiscal completo para empresas que buscam eficiência, 
-                redução de custos e crescimento sustentável.
+                Com vasta experiência no mercado, oferecemos soluções completas em gestão financeira e fiscal para empresas que buscam eficiência e redução de custos.
               </p>
             </div>
 
